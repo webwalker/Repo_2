@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin" fetch="https://github.com/webwalker/Repo_2.git" />
+    <default remote="origin" revision="master" />
+    <project name="Repo_1" path="Repo_1" />
+</manifest>
